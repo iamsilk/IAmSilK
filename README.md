@@ -1,16 +1,15 @@
-### Hi there 👋
+# Stephen White / SilK
 
-<!--
-**IAmSilK/IAmSilK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Check out my site for a more detailed portfolio - [SilK.One](https://silk.one/)
 
-Here are some ideas to get you started:
+A software developer and first-year CS student at [UNB Fredericton](https://unb.ca/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### OpenMod
+I actively contribute to the [OpenMod plugin framework for .NET](https://github.com/openmod/OpenMod/).
+
+### Unturned Plugins
+I develop both free and paid plugins for the game Unturned, primarily using OpenMod. [Join my plugin discord with this link.](https://discord.gg/SjFYeFr)
+
+### 
