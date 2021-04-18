@@ -1,8 +1,8 @@
 # Stephen White / SilK
 
-Check out my site for a more detailed portfolio - [SilK.One](https://silk.one/)
-
 A software developer and first-year CS student at [UNB Fredericton](https://unb.ca/).
+
+Check out my site for a more detailed portfolio - [SilK.One](https://silk.one/)
 
 ## Projects
 
