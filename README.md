@@ -12,4 +12,4 @@ I actively contribute to the [OpenMod plugin framework for .NET](https://github.
 ### Unturned Plugins
 I develop both free and paid plugins for the game Unturned, primarily using OpenMod. [Join my plugin discord with this link.](https://discord.gg/SjFYeFr)
 
-### 
+![SilK's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAmSilK&show_icons=true&theme=tokyonight)
