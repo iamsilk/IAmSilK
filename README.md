@@ -2,7 +2,7 @@
 
 A software developer and third-year CS student at [UNB Fredericton](https://unb.ca/).
 
-Check out my site for a more detailed portfolio - [SilK.One](https://silk.one/)
+Check out my site for a more detailed portfolio - [silk.one](https://silk.one/)
 
 ## Projects
 
