@@ -1,6 +1,6 @@
 # Stephen White / SilK
 
-A software developer and third-year CS student at [UNB Fredericton](https://unb.ca/).
+A software developer and fourth-year CS student at [UNB Fredericton](https://unb.ca/).
 
 Check out my site for a more detailed portfolio - [silk.one](https://silk.one/)
 
