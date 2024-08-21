@@ -1,6 +1,7 @@
 # Stephen White / SilK
 
-A software developer and fourth-year CS student at [UNB Fredericton](https://unb.ca/).
+A Security Analyst at JD Irving.
+Bachelor of Computer Science from [UNB Fredericton](https://unb.ca/).
 
 Check out my site: [silk.one](https://silk.one/)
 
