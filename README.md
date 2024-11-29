@@ -1,4 +1,4 @@
-# Stephen White / SilK
+# Stephen White / silk
 
 A Security Analyst at JD Irving.
 Bachelor of Computer Science from [UNB Fredericton](https://unb.ca/).
